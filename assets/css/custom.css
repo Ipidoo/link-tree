@@ -1,0 +1,21 @@
+
+@font-face {
+    font-family: Hacked;
+    src: url(https://hackedfont.com/HACKED.ttf);
+}
+
+.link-portfolio {
+    color: rgb(255 255 255);
+    background: #149ddd
+  }
+
+.link-itch {
+    color: rgb(255 255 255);
+    background-color: #fa5c5c;
+  }
+
+.link-keydoo, .link-discord {
+    color: rgb(255 255 255);
+    background-color: black;
+    font-family: Hacked;
+  }
